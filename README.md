@@ -1,10 +1,9 @@
 <h4 align="center">Visitor's count ‎️‍🔥</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{OdaRX}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<img src="https://cdn.discordapp.com/attachments/429523889991974922/899927952366653462/anime-yo.gif" />
+<p align="center"><img src="https://cdn.discordapp.com/attachments/429523889991974922/899927952366653462/anime-yo.gif" align="center" alt="Yo"></p>
+<br/>
+<br/>
 
 <p align="left"> 
   Hi there, my name's Lucas Roberto i'm 22 and i'm junior ReactJS and i really like codes, my first contact with website development was when I was 14 years old.
@@ -20,9 +19,9 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
 <p align="left">
@@ -35,13 +34,13 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/OdaRX)
+<p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting"/></p>
 
 
 
-<p align="left">
+<p align="center">
   <a href="mailto:luucasroberto250@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&luucasroberto250@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&luucasroberto250@gmail.com"/></a>
 
   <a href="https://www.linkedin.com/in/devlucasroberto/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devlucasroberto/" /></a>
