@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<img src="https://cdn.discordapp.com/attachments/429523889991974922/899927952366653462/anime-yo.gif" />
+
 <p align="left"> 
   Hi there, my name's Lucas Roberto i'm 22 and i'm junior ReactJS and i really like codes, my first contact with website development was when I was 14 years old.
 </p>
