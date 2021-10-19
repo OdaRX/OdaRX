@@ -1,12 +1,11 @@
-<h4 align="center">Visitor's count 👀</h4>
+<h4 align="center">Visitor's count ‎️‍🔥</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{OdaRX}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  EM CONSTRUÇÃO
+  Hi there, my name's Lucas Roberto i'm 22 and i'm junior ReactJS and i really like codes, my first contact with website development was when I was 14 years old.
 </p>
 
 <p align="left">
@@ -39,12 +38,12 @@
 
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:luucasroberto250@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&luucasroberto250@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/devlucasroberto/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devlucasroberto/" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/ilucassr/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ilucassr/"/></a>
 </p>  
