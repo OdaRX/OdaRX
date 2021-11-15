@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaRX&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devLucasRoberto&show_icons=true&theme=radical)
 
 
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting"/></p>
