@@ -6,7 +6,7 @@
 <br/>
 
 <p align="left"> 
-  Hi there, my name's Lucas Roberto i'm 22 and i'm junior ReactJS, i really like codes my first contact with website development was when I was 14 years old.
+  Hi there, my name's Lucas Roberto i'm 22 and i'm junior ReactJS, i really like codes, my first contact with website development i was 14 years old.
 </p>
 
 <p align="left">
